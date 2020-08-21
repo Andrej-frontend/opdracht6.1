@@ -1,0 +1,19 @@
+body {
+    color: rgb(0, 26, 255);
+}
+
+.black-border {
+    border: 5px solid black;
+}
+
+#green-background {
+    background-color: rgb(109, 177, 109);
+}
+
+#para1 {
+    color: rgb(196, 20, 20)
+}
+
+.text {
+    color: rgb(44, 52, 122); font: normal 26px Arial;
+}
